@@ -1,0 +1,27 @@
+{
+  "name": "supercasual-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "author": "DarkSoul",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines":{
+    "node": "10.x"
+  },
+  "dependencies": {
+    "bot-emoji": "^1.0.3",
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "give-me-a-joke": "^0.1.2",
+    "ms": "^2.1.2",
+    "request": "^2.88.0",
+    "urban": "^0.3.2",
+    "ytdl": "^0.13.1",
+    "ytdl-core": "^0.29.7"
+  }
+}

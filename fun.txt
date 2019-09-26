@@ -1,0 +1,12 @@
+`>say` **Say something trough the bot>** __Usage__: *>say <message>*
+`>8ball` **Ask the bot something** __Usage__: *>8ball <question>*
+`>gif` **Searchs gif on giphy** __Usage__: *>gif <word>*
+`>clap` **Makes a text with the :clap:** __Usage__: *>calp <text>*
+`>flip` **Flip a text upsidedown** __Usage__: *>flip <text>*
+`>mock` **Mocks some text** __Usage__: *>mock <text>*
+`>urban` **Get the defintion of something** __Usage__: *>urban <word>*
+`>pepe` **Shows pepe** __Usage__: *>pepe*
+`>shrug` **Shrugs** __Usage__: *>shrug*
+`>lenny` **Shows lenny face** __Usage__: *>lenny*
+`>megusta` **Shows megusta** __Usage__: *>megusta* 
+`>kill` **Kill someone** __Usage__: *>kill [@user]*
